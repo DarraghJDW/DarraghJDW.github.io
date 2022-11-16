@@ -11,7 +11,7 @@ html,body {
   font-weight: bold;
 }
 .hero-body
-{background-image: url(http://ctsgroup.ie/images/made/images/uploads/clients/IMG_0606_960_550_s_c1.JPG);
+{background-image: url(https://www.sagetopia.com/app/uploads/2017/11/REDHAT-Background-Photo-768x429.jpg);
 background-position: center;
 background-size: cover;
 background-repeat: no-repeat;
@@ -78,6 +78,7 @@ div.column.is-8:first-child {
 .article-body {
   line-height: 1.4;
   margin: 0 6rem;
+  
 }
 .promo-block .container {
   margin: 1rem 5rem;
